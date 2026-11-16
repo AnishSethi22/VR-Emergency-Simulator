@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ce602c6b2e20b0c4eb0d3a23c66dbfa7
+  - enabled: 1
+    path: Assets/Scenes/RescueBuilding.unity
+    guid: a67d5872411325f4f9cdb1e13c3bcd18
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf20f9b63b25c244b9b1dd48cfab90cd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c876da31ac99b884a964fc210b569860, type: 2}
+  m_UseUCBPForAssetBundles: 0
